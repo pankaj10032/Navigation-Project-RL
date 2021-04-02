@@ -34,4 +34,4 @@ You will also need to configure the environment, to do so, follow the instructio
 
 Then, you can follow the project in the Navigation notebook: Navigation.ipynb. You will be able to see how the agent learns along the time and it is able to solve the problem in just 407 episodes!
 
-** Note: As it this option is not available in the Udacity's Workspace it is not possible to visually see the agent playing in the environment.
+** Note: As it this option is not available in the Udacity's Workspace, it is not possible to see the simulator of the environment.
